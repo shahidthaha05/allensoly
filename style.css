@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+  height: 70px;
+  
+}
+.brands{
+  padding: 5px;
+}
+.buy{
+  padding: 5px;
+  font-size: small;
+}
+.loc{
+  padding-left: 8rem;
+  font-size: small;
+}
+.img{
+  padding-left: 40rem;
+}
+.store{
+margin: 20px;
+padding-top: 20px;
+}
+.contact{
+  margin: 20px;
+}
+.log{
+  margin: 20px;
+}
+ .allen{
+  color: white;
+  padding: 15px;
+}
+.second{
+  margin: 20px;
+  color: blue;
+}
+.pro{
+  margin: 20px;
+}
+.new{
+  margin: 20px;
+}
+.spcl{
+  margin: 20px;
+}
+.wed{
+  margin: 20px;
+}
+.card{
+  margin: 20px;
+}
+.sale{
+  margin: 20px;
+  color: red;
+}
+.search{
+color: grey;
+}
